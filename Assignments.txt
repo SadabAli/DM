@@ -2,3 +2,6 @@
 Implements EMP data base using dict
 Implements students attendence system using Set
 Print 9 divisor
+
+-----------22-07-2026----------
+create a student name tuple, removed puja from the tuple and return all data
